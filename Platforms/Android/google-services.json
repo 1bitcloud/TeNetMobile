@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780816374866",
+    "project_id": "tenetmobile-d4d60",
+    "storage_bucket": "tenetmobile-d4d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780816374866:android:e5bc040f71303bb7f6938b",
+        "android_client_info": {
+          "package_name": "tenet.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780816374866-0cccbi347991v0s7lvb13ua1011upin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkBJViLaBb1uO-0HwaPU7p_TuJWLD0NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780816374866-0cccbi347991v0s7lvb13ua1011upin1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
